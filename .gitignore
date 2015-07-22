@@ -4,3 +4,4 @@ resource/*
 access.log
 error.log
 app/runtime/*
+public/assets/*
