@@ -1,1 +1,6 @@
 makeup/*
+resource/*
+.idea/*
+access.log
+error.log
+app/runtime/*
